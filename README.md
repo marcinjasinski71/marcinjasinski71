@@ -1,6 +1,6 @@
-<h1 align="center">Hello, stranger.</h1>
-<h1 align="center">I'm Marcin, nice to see you here.</h1>
-<h5 align="center">Who am I?</h5>
+<h1 align="center">Hello, stranger 👽</h1>
+<h1 align="center">I'm Marcin, nice to see you here. 👋 </h1>
+<h5 align="center">🔰 Who am I? 🔰</h5>
 <h3 align="center">Junior Frontend Developer from Wrocław, Poland.</h3>
 <br><br>
 
@@ -8,7 +8,7 @@
 <br>
 👨‍💻 All of my projects are available at my Github
 
-📫 How to reach me => **alpinus1@gmail.com**
+📫 Feel free to reach me via e-mail: **alpinus1@gmail.com** <Br><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=20>: https://www.linkedin.com/in/marcinjasinski71/
 
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hello, stranger 👽</h1>
+<h1 align="center">Hello !</h1>
 <h1 align="center">I'm Marcin, nice to see you here. 👋 </h1>
 <h5 align="center">🔰 Who am I? 🔰</h5>
 <h3 align="center">Junior Frontend Developer from Wrocław, Poland.</h3>

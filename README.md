@@ -4,7 +4,8 @@
 <h3 align="center">Junior Frontend Developer from Wrocław, Poland.</h3>
 <br><br>
 
-<h4 align="center">  🌱 I’m currently learning <b>JavaScript & React</b>
+<h4 align="center">  🌱 I’m currently learning <b>JavaScript</b>
+<h4 align="center">  Next step -> <b>React</b>
 <br>
 👨‍💻 All of my projects are available at my Github - feel free to watch code and run demo !
 

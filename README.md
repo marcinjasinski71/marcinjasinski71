@@ -3,7 +3,7 @@
 <h5 align="center">🔰 Who am I? 🔰</h5>
 <h3 align="center">Junior Frontend Developer from Wrocław, Poland.</h3>
 
-<h4 align="center">  🌱 I’m currently learning <b>JavaScript & TypeScript</b>
+<h4 align="center">  🌱 I’m currently learning <b>React</b>
 <hr>
 <br>
 <br>

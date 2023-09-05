@@ -10,7 +10,7 @@
 👨‍💻 All of my projects are available at my Github - feel free to watch code and run demo !
 
 📫 You can reach me via e-mail: **alpinus1@gmail.com** 
- <Br><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height=15>: https://www.linkedin.com/in/marcinjasinski71/
+ 
 
 
 
